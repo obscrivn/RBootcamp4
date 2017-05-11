@@ -1,5 +1,8 @@
-title            : RBootcamp4
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+title            : R Bootcamp Day 4
+description      : This workshop is about using ggplot. Please go to Preparation Chapter to access files for slides, code and text files
+university       : Indiana University
+instructors: 
+   - obscrivn@indiana.edu
+   -  majdavis@iu.edu
+difficulty_level : 1
+time_needed      : 2 hour
