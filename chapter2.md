@@ -2,7 +2,9 @@
 title       : Answers
 description : Check the answers to your previous ggplot activities
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:886934edbb
+
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:8b0b02237d
+
 ## Answers
 When you are done reviewing your answers, click DONE.
 
