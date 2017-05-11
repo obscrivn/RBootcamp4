@@ -54,14 +54,14 @@ test_mc(correct = 1, feedback_msgs = c(msg1,msg2))
 - Now use qplot to plot sepal length vs sepal width and add a mapping of species type to color instead of shape.
 
 
-** Plot 4**
+**Plot 4**
 - Now use qplot to plot sepal length vs sepal width and mapping of species type to both color and shape. Assign this ggplot opbject to a variable called ` iris.plot `.
  
 **Plot 5**
 - Read the help file for ` scale_color_manual() `
 Now add a color scale to ` iris.plot ` so that the species are mapped to purple, brown, and steel blue. Don't worry about which species goes to which color unless you want to.
 
-**Plot4**
+**Plot6**
 - Let's say you want the guide off to the right to only use color not shape. Read the help file for ` scale_shape() `
  
 ` ?scale_shape() `
