@@ -33,7 +33,7 @@ When you are done downloading files and you have studied the lecture, select DON
 
 msg1 <- "Click Done"
 msg2 <- "Great. Make sure to study slides"
-test_mc(correct = 2, feedback_msgs = c(msg1,msg2))
+test_mc(correct = 1, feedback_msgs = c(msg1,msg2))
 ```
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:f80ee7a73e
