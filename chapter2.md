@@ -20,7 +20,7 @@ Proceed to the new assignment in your course **Introduction** which will provide
 
 **Plot 3**
 
-` qplot(Sepal.Length, Sepal.Width, data=iris, shape=color) `
+` qplot(Sepal.Length, Sepal.Width, data=iris, color=Species) `
 
 
 **Plot 4**
