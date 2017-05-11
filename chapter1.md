@@ -89,4 +89,3 @@ msg2 <- "Great. Go ahead and chec your anwers"
 test_mc(correct = 1, feedback_msgs = c(msg1,msg2))
 ```
 
-```
