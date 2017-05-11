@@ -30,10 +30,10 @@ When you are done downloading files and you have studied the lecture, select DON
 *** =sct
 ```{r}
 # SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
-
-msg_bad <- "Click Done"
-msg_success <- "Great. Make sure to study slides"
-test_mc(correct = 2, feedback_msgs = c(msg_successmsg_bad))
+feedback_msgs = c(msg1,msg2
+msg1 <- "Click Done"
+msg2 <- "Great. Make sure to study slides"
+test_mc(correct = 2, feedback_msgs = c(msg1,msg2))
 ```
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:f80ee7a73e
