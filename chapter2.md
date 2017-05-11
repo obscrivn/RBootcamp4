@@ -3,7 +3,7 @@ title       : Answers
 description : Check the answers to your previous ggplot activities
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:886934edbb
-
+## Answers
 When you are done reviewing your answers, click DONE.
 
 Proceed to the new assignment in your course **Introduction** which will provide more details about ggplot. Enjoy the course!
