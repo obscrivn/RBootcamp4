@@ -5,7 +5,7 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:b44077c753
-## Fiels Needed for this workshop
+## Files Needed for this workshop
 
 * Slides: [https://www.slideshare.net/obscrivn/rbootcamp-day-4](https://www.slideshare.net/obscrivn/rbootcamp-day-4)
 * R Code [http://cl.indiana.edu/~obscrivn/docs/DavisBoot4.R](http://cl.indiana.edu/~obscrivn/docs/DavisBoot4.R)
